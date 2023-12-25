@@ -1,0 +1,6 @@
+export const PUSH_EXPO_TOKEN = "PUSH_EXPO_TOKEN";
+
+export const SocketEventsName = {
+  NOTIFICATION: "NOTIFICATION",
+  GET_COUNT_NOTIFICATION: "GET_COUNT_NOTIFICATION",
+};
